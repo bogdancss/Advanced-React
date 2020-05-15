@@ -1,4 +1,4 @@
 import React from 'react'
-import Home from './index'
+import Items from './index'
 
-export default Home
+export default Items

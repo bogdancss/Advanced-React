@@ -43,6 +43,7 @@
     "react/no-danger": 0,
     "react/prefer-stateless-function": 0,
     "react/prop-types": 0,
+    "react/state-in-constructor": 0,
     "semi": ["warn", "never"]
   }
 }
